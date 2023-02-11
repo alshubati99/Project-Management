@@ -1,7 +1,7 @@
 # Managing Project Stakeholders.
 # [*PMI Certificate*](https://www.linkedin.com/learning/certificates/79d7ccad41db58885cc2680e2cd2e4c09ad75e06fb53d8305d742e750829b55c)
 > Project Management Institute.
-# [*NASBA Certificate*](https://www.linkedin.com/learning/certificates/65a8a70a37e443224828634c009300241102f13cc61cea69e2241e129a5cf784)
+# [*NASBA Certificate*](https://www.linkedin.com/learning/certificates/65a8a70a37e443224828634c009300241102f13cc61cea69e2241e129a5cf784?u=60693444)
 > National Association of State Boards of Accountancy.
 
 ### Key Stakeholders:
