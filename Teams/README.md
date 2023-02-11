@@ -1,5 +1,6 @@
 # Project Management Foundations: Teams.
-# [*Course Certificate*](https://www.linkedin.com/learning/certificates/eae579c651b9eb4c92eec84b49f3fff8e743c7559335daed9aeb13003d645a3b?u=60693444)
+# [*PMI Course Certificate*](https://www.linkedin.com/learning/certificates/eae579c651b9eb4c92eec84b49f3fff8e743c7559335daed9aeb13003d645a3b?u=60693444)
+# [*NASBA Course Certificate*](https://www.linkedin.com/learning/certificates/43b1f591ee0a6bc743a3fddbfd037851f17a29bbb6961a2816c236498b290239?u=60693444)
 
 ### Discovering Project Working Styles:
 - *Myers-Briggs Type Indicator for Project Teams*:
