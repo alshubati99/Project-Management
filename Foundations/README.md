@@ -318,6 +318,79 @@
 ### Challenge3: 
 > Prepare a Change form ### Templates.
 ### Build a Project Schedule:
+- Network diagram.
+- One task controls the timing of the other: Task Dependency.
+    - Start-to-start Dependencies.
+    - Finish-to-Finish Dependencies.
+    - Finish-to-Start Dependencies.
+    - Start-to-Finish Dependencies.
+    > Template
+- How many people work in one task: Assign work resources.
+- Duration: Work/Resources.
+- When resources are available affects when project starts.
+> Assignment.
+- Milestones: Show progress, How much you completed and when you finished.
+    - Highlight progress.
+    - Shows what happens next in the project.
+- Realistic Schedule:
+    - Estimate based on the work hours.
+    - Estimate based on how fast the workers.
+    - Limit number of tasks.
+    - Note adjustments and reasons.
+- Critical Path:
+    - Longest path to project.
+    - Don't have slack: occurs one after the another.
+    - Early start and Early finish.
+    - Project scheduleing programs calculate the critical path.
+    - Fast-track tasks are longest on the critical path.
+    - Crashing: spending more money to shorten the sechule.
+- Baseline:
+    - Approved Requirements.
+    - Approved Schedule.
+    - Approved Budget.
+- ### Challenge4: 
+Build a Network Diagram.
+### Agile Project Management:
+- Iterations to deliver sooner.
+- Agile Philosophy:
+    - Importance placed on people and interaction.
+    - Produce a product, not documentation.
+    - Customer collaborates throughout project.
+    - Changes are expected and welcomed.
+    - Waterfall: Scope first then Time, Cost, Quality.
+    - Agile: Check the Time, Cost, Quality then feature.
+    1. Envision:
+        - Start of the poject.
+        - Set up the project goal, objectives, team, guidlines.
+    2. Speculate:
+        - Plan the requirements, features, estimates, risks.
+    3. Explore:
+        - Builds the features, peer reviews, testing.
+    4. Adapt:
+        - Act on feedback, capture lessons learned.
+    5. Close. 
+        - Final set of lessons learned for future projects.
+        - Update stakeholders.
+        - Reconsile finance issues.
+    - Works with none-IT projects as well.
+- Sprint planning.
+- Daily scrum.
+- Sprint review.
+- Sprint retrospective.
+- Feature: Action followed by result.
+- First iteration takes longer time.
+- Write each feature on a stickynote or index cards.
+- Then review the features and proiritize them.
+- You can implement the iteration, milestone and release plan for the features, schedules in iterations, implemented in organization.
+- Explore stage is where the team collaborates more and starts building, perform some daily small meetings.
+- PM's contribution:
+    - Remove obstacles.
+    - Track progress.
+    - Resolve issues.
+    - Notify stakeholders of progress.
+### Challenge5:
+Check files for Agile Project management approach.
+
 
 
     

@@ -1,5 +1,5 @@
 # Career Essentials in Project Management by Microsoft and LinkedIn.
-# [*Learning Path Certificate*]
+# [*Learning Path Certificate*]()
 
 ## This Learning Path consists of the following courses:
 1. [***Project Management Foundations***]()
