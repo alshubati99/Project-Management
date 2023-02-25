@@ -11,6 +11,6 @@
 7. [***Communication***]()
 8. [***Risk***]()
 9. [***Stakeholders***](https://github.com/alshubati99/Project-Management/tree/master/Stakeholders)
-10. [***Collaborating with Microsoft 365***]()
+10. [***Collaborating with Microsoft 365***](https://github.com/alshubati99/Project-Management/tree/master/Microsoft365)
 11. [***Managing Projects with Microsoft 365***]()
 12. [***Optimizing Word with Microsoft 365***]()
