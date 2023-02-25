@@ -1,7 +1,7 @@
 # Project Management Foundations: Requirements.
 # [*PMI Course Certificate*](https://www.linkedin.com/learning/certificates/23ff5254a9060ba95f8a13efd064dc625b988e62ae66a8aa4e7af6b994808aae)
 > Project Management Institute.
-# [*NASBA Course Certificate*](https://www.linkedin.com/learning/certificates/5c98adb2c49205cf8089b2423b0706a145fd4570579617245830478f21546487)
+# [*NASBA Course Certificate*](https://www.linkedin.com/learning/certificates/5c98adb2c49205cf8089b2423b0706a145fd4570579617245830478f21546487?u=60693444)
 > National Association of State Boards of Accountancy.
 
 ### Requirements Management Questions:
