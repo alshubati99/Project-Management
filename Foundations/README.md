@@ -390,6 +390,50 @@ Build a Network Diagram.
     - Notify stakeholders of progress.
 ### Challenge5:
 Check files for Agile Project management approach.
+### Kickoff Meetings:
+- Monitoring the project.
+- Controlling.
+- Executing.
+### Teckniques for communicating effectively:
+- Tell the oudience **why** they should pay attention.
+- Make your point before they lose interest.
+- Keep message relevant.
+- How the project would benefit audience.
+- Be positive and productive.
+- Communication tips:
+    - Listen.
+    - Watch for body language.
+    - Keep an open mind.
+    - Paraphrase.
+    - Use Email effectively.
+### Run effective meetings:
+- Identify the purpose.
+- Create an agenda.
+- Limit attendees.
+- Allow time for preparation.
+- Start and finish meetings on time.
+- Facilitate the meeting.
+- Take notes.
+### Work with a Team:
+- Motivate people who work with you on a project.
+- Build a relationship with teammates.
+- Provide support.
+- Respect others.
+- Provide feedback quickly.
+- consistently tell the truth.
+- Communicate regurally with teammates.
+- Handle problems quickly.
+### Understand teh team dynamics:
+1. Forming: form a team.
+2. Storming: workout relationships with others.
+3. Norming: the team understands the common goal.
+### Manage virtual teams:
+- Communicate clearly.
+- Confirm understanding.
+- Help overcome obstacles.
+- Show appreciation.
+- Handle conflicts through video calls.
+
 
 
 
