@@ -1,4 +1,4 @@
-b# Project Management Foundations.
+# Project Management Foundations.
 # [*Course Certificate*](https://www.linkedin.com/learning/certificates/e30eb64eb4e9659c437b9f1b2ce40c13772e2c761ede7a9a3bf1c56dc05d92ef)
 
 ### Projects:
