@@ -8,7 +8,7 @@
 4. [***Schedules***]()
 5. [***Budgets***]()
 6. [***Teams***](https://github.com/alshubati99/Project-Management/tree/master/Teams)
-7. [***Communication***]()
+7. [***Communication***](https://github.com/alshubati99/Project-Management/tree/master/Communication)
 8. [***Risk***]()
 9. [***Stakeholders***](https://github.com/alshubati99/Project-Management/tree/master/Stakeholders)
 10. [***Collaborating with Microsoft 365***](https://github.com/alshubati99/Project-Management/tree/master/Microsoft365)
