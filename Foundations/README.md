@@ -1,5 +1,5 @@
-# Project Management Foundations.
-# [*Course Certificate*]()
+b# Project Management Foundations.
+# [*Course Certificate*](https://www.linkedin.com/learning/certificates/e30eb64eb4e9659c437b9f1b2ce40c13772e2c761ede7a9a3bf1c56dc05d92ef)
 
 ### Projects:
 - A project is a temprorly endeaver that has a beginning time and ending time with a unique goal and budget. 
@@ -423,7 +423,7 @@ Check files for Agile Project management approach.
 - consistently tell the truth.
 - Communicate regurally with teammates.
 - Handle problems quickly.
-### Understand teh team dynamics:
+### Understand the team dynamics:
 1. Forming: form a team.
 2. Storming: workout relationships with others.
 3. Norming: the team understands the common goal.
@@ -434,7 +434,79 @@ Check files for Agile Project management approach.
 - Show appreciation.
 - Handle conflicts through video calls.
 
+### Process and Performance:
+- Collect data.
+- Change Management plan: to handle the project changes.
+- Scope Creep.
+- Control Risks.
+- Earned Value Analysis.
+- Problem Tasks.
+- Cost to Budget.
+### Close the Project:
+- Closing.
+    - Get acceptance in writing.
+    - Document lessons learned.
+    - Produce a closeout report.
+    - Close contracts.
+    - Archive project information.
+    - Transition team.
+- Run acceptance test.
+- Get signiture from stakeholders and customers.
+- Document lessons learned.
+- Closeout report.
+- Archive the project's documents.
+#### VALUE:
+- Examples of value:
+    - Reduce cost.
+    - Improve health care.
+    - Increase patient satisfaction.
+    - Increase market share.
+- Build a value delivery system.
+    - Senior Leadership => based on strategy.
+- Principle-based project management:
+    1. Be diligent, respectful, and caring steward.
+    2. Create a collaborative project team environment.
+    3. Effectively engage with stakeholders.
+    4. Focus on value.
+    5. Recognize, evaluate and respond to system interaction.
+    6. Demonstrate leadership behavoirs.
+    7. Tailor based on context.
+    8. Build quality into processes and deliverables.
+    9. Navigate complexity.
+    10. Optimize risk responses.
+    11. Embrace adaptability and resiliency. 
+    12. Enable change to achieve the envisioned future state.
+- Project Performance Domains:
+    1. Stakeholders Performance Domain.
+    2. Team Performance Domain.
+    3. Development Approach and lifecycle Performance Domain.
+    4. Planning Performance Domain.
+    5. Project Work Performance Domain.
+    6. Delivery Performance Domain.
+    7. Measurement Performance Domain.
+    8. Uncertainty Performance Domain. 
+- Tailoring:
+    - Project size.
+    - Duration.
+    - Complexity.
+    - Industry.
+    - Organizational Culture.
+    - Development approach.
+    - Lifecycle.
+    - Processes.
+    - People.
+    - Empowerment.
+    - Integration.
+    - Software and Hardware tools.
+    - Methods.
+    - Documents. 
+- Models and Methods and Artifacts:
+    - Model: simplified representation of something from our real world.
+    - Method: way to achieve outcome or result.
+    - Artifact: Document, charts, deliverables.
 
+> Agile Foundations.</br>
+> Hybrid Project management. 
 
 
     
