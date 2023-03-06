@@ -6,7 +6,7 @@
 2. [***Ethics***](https://github.com/alshubati99/Project-Management/tree/master/Ethics)
 3. [***Requirements***](https://github.com/alshubati99/Project-Management/tree/master/Requirements)
 4. [***Schedules***]()
-5. [***Budgets***]()
+5. [***Budgets***](https://github.com/alshubati99/Project-Management/tree/master/Budget)
 6. [***Teams***](https://github.com/alshubati99/Project-Management/tree/master/Teams)
 7. [***Communication***](https://github.com/alshubati99/Project-Management/tree/master/Communication)
 8. [***Risk***]()
