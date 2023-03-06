@@ -2,8 +2,8 @@
 # [*Learning Path Certificate*]()
 
 ## This Learning Path consists of the following courses:
-1. [***Project Management Foundations***]()
-2. [***Ethics***]()
+1. [***Project Management Foundations***](https://github.com/alshubati99/Project-Management/tree/master/Foundations)
+2. [***Ethics***](https://github.com/alshubati99/Project-Management/tree/master/Ethics)
 3. [***Requirements***](https://github.com/alshubati99/Project-Management/tree/master/Requirements)
 4. [***Schedules***]()
 5. [***Budgets***]()
