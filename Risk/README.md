@@ -1,4 +1,4 @@
-b# Project Management Foundations: Risk
+# Project Management Foundations: Risk
 
 # [*PMI Course Certificate*](https://www.linkedin.com/learning/certificates/a5e74aeee02fa1e023317b2d034ceeb7fd8f40ce55080cbb4d9f778c4ac79540)
 > Project Management Institute.
