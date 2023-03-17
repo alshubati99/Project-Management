@@ -1,4 +1,4 @@
-b# Optimizing Work With Microsoft 365. 
+# Optimizing Work With Microsoft 365. 
 # [*Course Certificate*](https://www.linkedin.com/learning/certificates/da5fe09660d937bc8b4072730b598f671efa68459e1cea27d2c533d8dec466fa)
 
 #### Level up your Workflow:
